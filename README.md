@@ -13,13 +13,12 @@ Electric's Read: Neighborhood is a Java-based graphical user interface (GUI) app
 
 ## 📸 Screenshots
 
-***COPY PASTE TO MAKE IT PUBLIC!!!***
-<img src="https://github.com/user-attachments/assets/53a34f87-595c-450c-abb7-dc8167ffb42a" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/0181f177-a077-44d9-ad84-37eb1df0de28" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/9d8f5114-0d5b-4bfa-988a-df1410a116f8" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/9914c66d-647c-4587-b370-bcbbdcb0fdcb" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/62ba31a4-5884-4abf-808f-0451cf4d46ad" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/25bf9a09-2433-4f20-a958-bea9c65702a1" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/195eb950-fe34-4eb8-85e6-b98da4c6e4b6" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/3de4f123-c46b-4bc1-8103-911b34b1dc99" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/441ca257-9b43-47ec-95d4-0e3f7e5c5ef0" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/9e530566-554f-4b97-bde6-74b309d98f96" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/5ff43a39-58da-43e6-a1ed-79c70ed7580d" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/a98f36ad-605b-480c-bf92-6a86f3c7a63f" width="400" alt="image">
 
 ## ⛳ Getting Started
 
@@ -32,8 +31,7 @@ Electric's Read: Neighborhood is a Java-based graphical user interface (GUI) app
 ### Installation
 
 1. **Download the Executable File**
-   - Visit the [Releases section](https://github.com/elfin-college/javap2-mt-ElectricsRead) of this repository.
-   - Download the latest `.exe` file from the list of assets. The file will be named something like `ElectricsRead_Neighborhood.exe`.
+   - Visit the [Releases section](https://github.com/elfinix/javap2-mt-ElectricsRead) of this repository.
 
 2. **Navigate to the Download Folder**
    - Open File Explorer and go to your `Downloads` folder (or wherever your browser saves downloaded files).
