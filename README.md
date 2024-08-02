@@ -38,6 +38,34 @@ Electric's Read: Neighborhood is a Java-based graphical user interface (GUI) app
 
 3. **Launch the application.**
    - Double-click the application icon to launch it.
+   
+### Account Roster:
+| Account No. | Name    | Balance |
+|-------------|---------|---------|
+| 57233       | Bryndr  | 500.00  |
+| 57234       | Ragnar  | 600.00  |
+| 57235       | Freya   | 700.00  |
+| 57236       | Leifin  | 800.00  |
+| 57237       | Ingrid  | 850.00  |
+| 57238       | Sigrid  | 800.00  |
+| 57239       | Kjartan | 750.00  |
+| 57240       | Astrid  | 650.00  |
+| 57241       | Eirikur | 550.00  |
+| 57242       | Arfinn  | 1000.00 |
+
+### Type Roster:
+| Code       | Type |
+|------------|------|
+| 57233      | R    |
+| 57234      | R    |
+| 57235      | R    |
+| 57236      | R    |
+| 57237      | R    |
+| 57238      | C    |
+| 57239      | C    |
+| 57240      | C    |
+| 57241      | C    |
+| 57242      | C    |
 
 ## 🔁 Dependencies
 
